@@ -1,87 +1,147 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ronit</h1>
-<h3 align="center">Passionate full-stack developer skilled in ReactJS, Node.js, MongoDB, and adept in server management. Led impactful projects, crafting dynamic solutions to empower businesses. A strategic thinker, passionate leader, and mentor eager to drive innovation and fuel growth.</h3>
+# 👋 Hey there, I'm Ronit Ghode
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronitghode&label=Profile%20views&color=0e75b6&style=flat" alt="ronitghode" /> </p>
+### Full-Stack Developer | Problem Solver | Innovation Enthusiast
 
-- 🔭 I’m currently working on Skill Share and Lost & Found platforms
-- 🌱 I’m currently learning **Next.js,TypeScript,React Native**
-- 📫 How to reach me **ronitghode6848@gmail.com**
+<img src="https://i.imgur.com/iXuL1HG.png" alt="Banner" width="100%" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ronitghode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronitghode" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ronit-ghode-b5b699280/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ronit Ghode LinkedIn" height="30" width="40" />
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=ronitghode&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/ronitghode)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ronitghode?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/ronitghode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronit-ghode-b5b699280/)
 
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#reactjs">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="Reactjs" />
-      </a>
-      <br>React JS
-    </td>
-  </tr>
+## 🚀 About Me
 
-  <tr>
-    <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" height="48" alt="Nodejs" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="#mongodb">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#git">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-   <td align="center" width="96">
-  <a href="#expressjs">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="48" height="48" alt="ExpressJS" />
-  </a>
-  <br>Express JS
+```javascript
+const ronit = {
+    location: "Pune, Maharashtra, IN",
+    role: "Full-Stack Developer",
+    currentFocus: ["Next.js", "TypeScript", "Machine Learning"],
+    passions: ["Building scalable solutions", "Mentoring", "Driving innovation"],
+    workingOn: ["Skill Share Platform", "Lost & Found System"],
+    philosophy: "Code with purpose, build with passion"
+};
+```
+
+I'm a passionate full-stack developer who loves crafting dynamic, user-centric solutions. With expertise in modern web technologies and a knack for strategic thinking, I lead projects that empower businesses and create meaningful impact. When I'm not coding, you'll find me exploring new tech stacks or mentoring aspiring developers.
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Mastery
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Building
+- **Skill Share Platform** - Connecting learners with experts
+- **Lost & Found System** - Helping communities reconnect with belongings
+
 </td>
+<td width="50%">
 
-  </tr>
+### 🌱 Learning
+- Advanced Next.js patterns
+- TypeScript best practices
+- Cross-platform mobile development with React Native
+
+</td>
+</tr>
 </table>
 
 ---
 
-<details>
-  <summary> ✌️ My GitHub Analytics </summary>
-<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronitghode&show_icons=true&locale=en&layout=compact&theme=radical" alt="ronitghode" /></p>
-<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=ronitghode&show_icons=true&locale=en&theme=radical" alt="ronitghode" /></p>
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitghode&theme=radical" alt="ronitghode" /></p>
-</details>
+## 📊 GitHub Insights
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronitghode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitghode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronitghode&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ronitghode&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💡 What Drives Me
+
+> **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
+
+I believe in writing clean, maintainable code that solves real-world problems. My approach combines technical expertise with strategic thinking to deliver solutions that don't just work—they excel. Whether it's architecting scalable backends, crafting intuitive UIs, or mentoring the next generation of developers, I'm committed to excellence.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-ronitghode6848%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitghode6848@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@ronitghode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ronitghode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronit_Ghode-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-ghode-b5b699280/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### ✨ Fun Fact
+**I turn coffee into code and ideas into reality ☕️ → 💻 → 🚀**
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**Thanks for visiting! Feel free to reach out for collaborations or just a tech chat!** 🚀
+
+</div>
